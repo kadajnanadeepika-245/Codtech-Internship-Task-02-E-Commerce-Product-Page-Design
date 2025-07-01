@@ -1,7 +1,5 @@
 # Codtech Internship Task – E-Commerce Product Page Design
 
-## Intern ID: CT04DG487
-
 ## Project Overview
 This project involves designing an innovative and user-centric product page for an e-commerce platform. The design incorporates modern features such as **360° product views**, **customer reviews**, and interactive UI components to enhance the shopping experience.
 
@@ -25,5 +23,3 @@ A **fully designed and interactive product page** prototype created in Figma, de
 - E-commerce interface design
 - Figma proficiency
 
-## Status
-✅ Completed and ready for review
